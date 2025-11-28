@@ -1,0 +1,16 @@
+{
+  
+  "name": "accounts_provider",
+  "version": "1.0.0",
+  "description": "Dummy Service to Provide Accounts",
+  "main": "app.js",
+  "scripts": {
+      "start": "node app.js"
+  },
+  "author": "Kong Chanmonyrak",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+
+}
